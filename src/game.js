@@ -53,7 +53,7 @@ export const init = (canvas, isVertical) => {
         timeUsed: 0
       })
     } else {
-      window.open('https://github.com/LastLeaf/tricolors')
+      window.open('https://repl.it/heycolors')
     }
   })
 
